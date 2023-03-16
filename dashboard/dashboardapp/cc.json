@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dashboard1-376513",
+  "private_key_id": "2a2d216efab505f4e41d768702e8a7b20dcf6044",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAhr/zgJEe/6XL\noY6FnPr+bOv+OexmMg+/AwJSMSWHIzy6m0yXUGpsAQ4dokJMkxaeaJ3n65JdtR7q\n/Z3Ish1J9QpEMfq9EGil6EbLr4gq74xXg4D59/z9oAfqiUifYY4rgCXXdivOnzN2\n8cZdGORWDhjDxj45K8nEgfPcFT+JUAPHLAwR04Xo8sPKgYEthTWpjL5P/8E0C97j\njxx+xoTlI8HH2UqkGdOyYeYvxGHN5HgdtOTvtZHQ1XN4L2vxh2PQRx4P4mdx+eYX\n7tavKMXlXhjQIvkxRDmXDvd5e+WOOpYCzyN4ypDcUBr1hdi2yGl+y3ehoXO/vdwX\nDXs2j+PtAgMBAAECggEACyEfAogJm5Wis3FM6FtpRQDt6X3WtReqwlt9rFur9DJs\nxcrJdCvRYxnyg3MISx3rnk+k5S3AgctBFMuBbgMh308bf1K2UGyc6A5T3V1xzS2Y\n2sw+zfRwewbfvkaeXJxKmCgpx9lMcf7Q/ky+r04LkQ/yjYqtuSdXXBU5EB1oVVsh\njCF75JRZVBZypzYzlV3dymgm2vuWRFn8XvASmDIWXNqiu2IO8P1wOcRs9OZaQy4X\ncfGV7+FRdLFdPUNmtLv+C7+koVcnGsfKQvc5yTe8RbcjxwOQh19m7XDrvaQW0Tz6\nxqnhcCX1cUrYA5eLlmepXN5lXFQaeMZ0CqfgwOEXQQKBgQDs3DGSSUMUQIeuqg/e\n2NpRQwL6g8061LxrQgg0JDPJGCkj4dX0UdoLfiJPDpK1Ighpwsq45yGhEXxHrEog\nDr2jrkdUwKhJ3GqmryXD3Mh7VjHQn0O8NUV5dr5gnKk9hQ7uRC1zXc6deQh7FuyC\npw3DVQHpo5DZeksjTYeEFyFGjQKBgQDQFXIlUCIJOmy4xw4C/TtI7jp77LzUbFW4\nj30kI0Cg6R+KIdRI1lQbX1mF8bQC/leazZV6N7n+u/tZxW7X2qHUbBSBcmEtKg7j\n3VDYI3ZSGNMwBfCrTSelRs7NoFKkbq3EFPIGdi5JUtcYSe8+NilIGYS/+zIH6qKc\nD7QFvCTq4QKBgQCq8CqyWT8Y4Y1KR59Wg4fjd4oxw2ccmyUz/x6uiqX47f/azoQ7\nY8sJ2kjmZy0Hnf0WXqcxFFVXyae4jiWcxyajdwYxqyyIyZMKooKNvMvO/yDKX/Zh\nYMy34TN5w/X72Qgyem+Wv896JDwzoRKlI+yx2KqdtBa4bSLG4o/3iz3PjQKBgGSd\nShFCuwJtTq7WCS9m1OjB0GOlp/Sq4ZQZRbBYn2Ju9sIq82O4xvhpVXdP1PPxmdiP\neaycD4Jd0P6qWZtj6wY0sIGbFePpx0Nk+zdXhlnSCSPaa3HZH8dqAoso72z0227J\nlfGL6Xuo47qp3VXeiH2FYUwXISz0xmXhrfFr9QnhAoGAH3wOiXEd0eMWNqTG1zTg\n0ufPUMtzZ/UKOoRT0ML7dKn8rH51NRIw+S24awJ/Rigq47B7P5OUZePz3mXdcp2P\nlCKjo5Lu1zGzjIYsPKDlFF0jcE5EvO6UYBI+EoY6yaUvrAa5S7zo1EvYrV0HRQZ6\nfHbJcjgM8L1gbM2TXz1AlII=\n-----END PRIVATE KEY-----\n",
+  "client_email": "shreeya-singhal@dashboard1-376513.iam.gserviceaccount.com",
+  "client_id": "107181114768946393379",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shreeya-singhal%40dashboard1-376513.iam.gserviceaccount.com"
+}
